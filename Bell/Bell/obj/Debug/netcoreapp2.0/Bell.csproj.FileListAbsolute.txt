@@ -1,0 +1,11 @@
+C:\Users\WilliamAndrus\Documents\GitHub\Quantum Programming\Bell\Bell\bin\Debug\netcoreapp2.0\Bell.deps.json
+C:\Users\WilliamAndrus\Documents\GitHub\Quantum Programming\Bell\Bell\bin\Debug\netcoreapp2.0\Bell.runtimeconfig.json
+C:\Users\WilliamAndrus\Documents\GitHub\Quantum Programming\Bell\Bell\bin\Debug\netcoreapp2.0\Bell.runtimeconfig.dev.json
+C:\Users\WilliamAndrus\Documents\GitHub\Quantum Programming\Bell\Bell\bin\Debug\netcoreapp2.0\Bell.dll
+C:\Users\WilliamAndrus\Documents\GitHub\Quantum Programming\Bell\Bell\bin\Debug\netcoreapp2.0\Bell.pdb
+C:\Users\WilliamAndrus\Documents\GitHub\Quantum Programming\Bell\Bell\obj\Debug\netcoreapp2.0\Bell.csprojAssemblyReference.cache
+C:\Users\WilliamAndrus\Documents\GitHub\Quantum Programming\Bell\Bell\obj\Debug\netcoreapp2.0\Bell.csproj.CoreCompileInputs.cache
+C:\Users\WilliamAndrus\Documents\GitHub\Quantum Programming\Bell\Bell\obj\Debug\netcoreapp2.0\Bell.AssemblyInfoInputs.cache
+C:\Users\WilliamAndrus\Documents\GitHub\Quantum Programming\Bell\Bell\obj\Debug\netcoreapp2.0\Bell.AssemblyInfo.cs
+C:\Users\WilliamAndrus\Documents\GitHub\Quantum Programming\Bell\Bell\obj\Debug\netcoreapp2.0\Bell.dll
+C:\Users\WilliamAndrus\Documents\GitHub\Quantum Programming\Bell\Bell\obj\Debug\netcoreapp2.0\Bell.pdb
